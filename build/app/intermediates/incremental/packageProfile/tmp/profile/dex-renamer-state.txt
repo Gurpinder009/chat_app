@@ -1,0 +1,4 @@
+#Mon Jan 30 22:21:10 IST 2023
+base.0=F\:\\user\\flutter_projects\\clone_chat_app\\build\\app\\intermediates\\dex\\profile\\mergeDexProfile\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
